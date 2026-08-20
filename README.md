@@ -49,7 +49,9 @@
 ├── CMakeLists.txt    # CMake 构建模板（当前以 Keil 为准）
 ├── syscfg.bat        # SysConfig 命令行重新生成外设代码的脚本
 ├── move_file.bat     # 将生成的外设代码移入 Core/src 与 Core/inc
-└── MSPM0G3507_V2.0_无源电流表原理图.png / .pdf   # 电路原理图
+├── MSPM0G3507_V2.0_引脚资源分配图.png   # MSPM0G3507 引脚资源分配图
+├── EVM_MSPM0_V2.0_引脚资源分配图1.png   # EVM 引脚资源分配图
+└── MSPM0G3507_V2.0.pdf                  # MSPM0G3507 数据手册
 ```
 
 ## 编译与烧录
