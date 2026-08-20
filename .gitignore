@@ -1,0 +1,44 @@
+# ============================================
+# Keil 编译产物
+# ============================================
+keil/Objects/
+keil/Listings/
+keil/*.map
+keil/*.dep
+keil/*.lnp
+keil/*.htm
+keil/*.axf
+keil/*.hex
+keil/*.o
+keil/*.d
+keil/*.crf
+keil/*.build_log.htm
+keil/ExtDll.iex
+keil/11.txt
+keil/data.log
+keil/EventRecorderStub.scvd
+
+# Keil 用户界面/选项配置（每用户不同）
+keil/*.uvguix.*
+keil/*.uvoptx
+keil/*.uvprojx.bak
+
+# ============================================
+# VS Code
+# ============================================
+.vscode/
+keil/.vscode/
+
+# ============================================
+# AI 对话记录
+# ============================================
+.omo/
+.opencode/
+session*/
+*.session
+*.chat
+
+# ============================================
+# 日志
+# ============================================
+*.log
