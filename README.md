@@ -33,7 +33,7 @@
 | 开发环境 | Keil MDK uVision，ARM Compiler **V6.21**（ARMCLANG） |
 | 外设配置 | TI SysConfig **1.28.0**（`project.syscfg`） |
 | 驱动库 | MSPM0 SDK **2.08.00.03**（DriverLib） |
-| 时钟方案 | 全内部振荡器：SYSOSC 32MHz → SYSPLL → MCLK **5MHz**；LFOSC → LFCLK 32.768kHz |
+| 时钟方案 | 全内部振荡器：SYSOSC 32MHz → SYSPLL → MCLK **2.25MHz**；LFOSC → LFCLK 32.768kHz |
 
 ## 目录结构
 
